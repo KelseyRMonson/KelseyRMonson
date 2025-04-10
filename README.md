@@ -1,7 +1,16 @@
 ## Hi there 👋
+I'm Kelsey, an immuno-oncology postdoctoral researcher based in NYC.
+
+* 🔭 I'm working on using multi-omics sequencing data and high-resolution spatial profiling of ovarian cancer tumors to identify patients who will respond to immunotherapy treatment
+* ✏️I'm teaching "The Umbrella Academy," a 10-week course I created to teach **dry lab** skills to **wet lab** scientists (because an ☔ keeps you dry when it's wet, get it?)
+* 🗽I'm leading the NYC Postdoc Night Science Club to nurture creativity and collaboration in early career scientists 
+* 🌱I'm learning how to optimize Nextflow pipelines for my projects, with a focus on ultra-low coverage whole genome sequencing and multiparameter immunofluorescence data
+* 🎓PhD from NYU, MS from Columbia University, BA from Sarah Lawrence College
+
+
 
 <!--
-**KelseyRMonson/KelseyRMonson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KelseyMo374-mssm/KelseyMo374-mssm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
