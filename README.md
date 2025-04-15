@@ -2,7 +2,7 @@
 I'm Kelsey, an immuno-oncology postdoctoral researcher based in NYC.
 
 * 🔭 I'm working on using multi-omics sequencing data and high-resolution spatial profiling of ovarian cancer tumors to identify patients who will respond to immunotherapy treatment
-* ✏️I'm teaching "The Umbrella Academy," a 10-week course I created to teach **dry lab** skills to **wet lab** scientists (because an ☔ keeps you dry when it's wet, get it?)
+* ✏️I'm teaching [The Umbrella Academy](https://github.com/KelseyRMonson/Umbrella-Academy), a 10-week course I created to teach **dry lab** skills to **wet lab** scientists (because an ☔ keeps you dry when it's wet, get it?)
 * 🗽I'm leading the NYC Postdoc Night Science Club to nurture creativity and collaboration in early career scientists 
 * 🌱I'm learning how to optimize Nextflow pipelines for my projects, with a focus on ultra-low coverage whole genome sequencing and multiparameter immunofluorescence data
 * 🎓PhD from NYU, MS from Columbia University, BA from Sarah Lawrence College
