@@ -10,15 +10,16 @@ I'm Kelsey, an immuno-oncology postdoctoral researcher based in NYC.
 <details>
   <summary><b>Just for Fun</b></summary>
   
-- **🎻Musical Performances:** I am a trained classical violinist and perform as a guest musician with several New York-based bands
-  - Ghostbound
+- **🎻Musical Performances:**  
+I'm a trained classical violinist and perform as a guest musician with several New York-based bands
+  - **Ghostbound**
     - *And We Are Already At Sea*
       -   [Live at the Cutting Room Studio](https://www.youtube.com/watch?v=-6qBW1zFdoM)
       -   [Live at Our Wicked Lady](https://www.youtube.com/watch?v=ut8nlfq6fjM&t=1204s)
     - *Ada, Age of Eight*
       -   [Live at The Cutting Room Studio](https://www.youtube.com/watch?v=Z7qvjKgH6fQ)
       -   [Live at Our Wicked Lady](https://www.youtube.com/watch?v=ut8nlfq6fjM&t=1469s)
-  -   skeletonflowers_
+  -   **skeletonflowers_**
       -   [*Music for an Unmade Film I*](https://www.youtube.com/watch?v=92XhJ9PXQL0)
       -   [*Music for an Unmade Film II*](https://www.youtube.com/watch?v=92XhJ9PXQL0&t=125s)
 - **🎼Musial Composition:** [*Non-Newtonian Fluid Mechanics*](https://www.youtube.com/watch?v=I5OB7Gp_iCQ), performed by the Cygnus Ensemble
