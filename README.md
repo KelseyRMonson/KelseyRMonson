@@ -11,7 +11,7 @@ I'm Kelsey, an immuno-oncology postdoctoral researcher based in NYC.
   <summary><b>Just for Fun</b></summary>
   
 - **🎻Musical Performances:**  
-I'm a trained classical violinist and perform as a guest musician with several New York-based bands
+I'm a classically trained violinist and perform as a guest musician with several New York-based bands
   - **Ghostbound**
     - *And We Are Already At Sea*
       -   [Live at the Cutting Room Studio](https://www.youtube.com/watch?v=-6qBW1zFdoM)
