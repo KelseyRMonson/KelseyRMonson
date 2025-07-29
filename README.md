@@ -3,7 +3,7 @@ I'm Kelsey, an immuno-oncology postdoctoral researcher based in NYC.
 
 * 🔭 I'm working in the [Dmitriy Zamarin Lab](https://labs.icahn.mssm.edu/zamarinlab/team/) using multi-omics sequencing data and high-resolution spatial profiling of ovarian cancer tumors to identify patients who will respond to immunotherapy treatment
 * ✏️ I'm teaching [The Umbrella Academy](https://github.com/KelseyRMonson/Umbrella-Academy), a 10-week course I created to teach **dry lab** skills to **wet lab** scientists (because an ☔ keeps you dry when it's wet, get it?)
-* 🗽 I'm leading the NYC Postdoc [Night Science](https://nightscience.buzzsprout.com/) Club to nurture creativity and collaboration in early career scientists 
+* 🗽 I'm leading the NYC Postdoc [Night Science](www.night-science.org) Club to nurture creativity and collaboration in early career scientists 
 * 🌱 I'm learning how to optimize [Nextflow](https://www.nextflow.io/) pipelines for my projects, with a focus on ultra-low coverage whole genome sequencing and multiparameter immunofluorescence data
 * 🎓 PhD from New York University, MS from Columbia University, BA from Sarah Lawrence College
 * 📄 My most recent manuscript, out now in [*Nature Medicine*](https://www.nature.com/articles/s41591-025-03699-3), shows that mitochondrial DNA influences response to immune checkpoint inhibitors in melanoma.
